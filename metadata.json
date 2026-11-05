@@ -1,0 +1,8 @@
+{
+  "name": "Assets Management",
+  "description": "Aplikasi Manajemen Aset, Peminjaman, Berita Acara, Barcode Printing & Stock Opname berbasis Google Sheets API dan Hybrid Local Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
